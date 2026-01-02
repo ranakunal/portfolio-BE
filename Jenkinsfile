@@ -59,11 +59,4 @@ pipeline {
         }
     }
 }
-```
 
-### **.dockerignore** (tells Docker what to ignore)
-```
-log/*
-tmp/*
-.git
-node_modules
